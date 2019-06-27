@@ -1,0 +1,38 @@
+*{
+	margin: 0em;
+}
+body {
+    font-family: 'Merriweather', serif;
+    background: url(../img/BG.jpg);
+    background-size: cover;
+}
+.container {
+    width: 450px;
+    margin: 15% auto;
+}
+.Login-section {
+    background-color: #000000c2;
+}
+.Login-section img {
+    height: 130px;
+    width: 130px;
+    margin: 0 auto;
+    display: block;
+}
+.Login-section h3 {
+    color: red;
+    text-align: center;
+    margin: 7px;
+}
+.form-controll {
+    width: 95%;
+    padding: 5px 8px;
+    margin-bottom:4px;
+}
+.btn {
+    color: crimson;
+    font-size: large;
+    background: aliceblue;
+    margin: 0 auto;
+    display: block;
+}

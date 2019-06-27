@@ -1,0 +1,43 @@
+*{
+    margin: 0em;
+}
+.container {
+    width: 450px;
+    margin: 15% auto;
+}
+body{
+    background: url(../img/BG2.jpg);
+    background-size:cover; 
+}
+.signup-section img{
+    height: 130px;
+    width: 130px;
+    margin: 0 auto;
+    display: block;
+    
+    
+}
+.signup-section{
+    background: #00000094;
+    border-radius: 10px;
+}
+
+.from-control {
+    width: 93%;
+    padding: 6px 10px;
+    margin-bottom: 4px;
+    /* color: #f#00000094; */
+    border-radius: 9px;
+}
+.btn {
+    color: black;
+    font-size: 26px;
+    background: aliceblue;
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 7px;
+}

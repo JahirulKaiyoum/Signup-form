@@ -1,0 +1,34 @@
+*{
+	margin: 0em;
+}
+body {
+    font-family: 'Merriweather', serif;
+    background: url(../img/BG3.jpg);
+    background-size: cover;
+}
+.container {
+    width: 450px;
+    margin: 15% auto;
+}
+.Forget-section {
+    background-color: #000000db;
+    border-radius: 10px;
+}
+.Forget-section img {
+    height: 175px;
+    width: 206px;
+    margin: 0 auto;
+    display: block;
+}
+.form-controll {
+    width: 95%;
+    padding: 5px 8px;
+    margin-bottom:4px;
+}
+.btn {
+    color: crimson;
+    font-size: large;
+    background: aliceblue;
+    margin: 0 auto;
+    display: block;
+}
